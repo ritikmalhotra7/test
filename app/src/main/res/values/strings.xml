@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contactskotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="succesfulmessage">Contact Added</string>
+    <string name="errormessage">not succesful</string>
+</resources>

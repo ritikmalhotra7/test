@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929096385196",
+    "firebase_url": "https://contactsdb-ba1f7-default-rtdb.firebaseio.com",
+    "project_id": "contactsdb-ba1f7",
+    "storage_bucket": "contactsdb-ba1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929096385196:android:5c68ca43b053e77cdd1509",
+        "android_client_info": {
+          "package_name": "com.example.contactskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929096385196-2kgop9rtipqaqhhg1srqu574dnf03pkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDLZE9eAnVe-6qd1wGqJapKytebZbbCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929096385196-2kgop9rtipqaqhhg1srqu574dnf03pkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
